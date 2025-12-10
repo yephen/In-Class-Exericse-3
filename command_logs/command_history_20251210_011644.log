@@ -1,0 +1,5 @@
+[2025-12-10 01:16:44] [/workspaces/In-Class-Exericse-3] source .devcontainer/shell.sh
+[2025-12-10 01:17:38] [/workspaces/In-Class-Exericse-3] grep "ERROR" logfile.txt 
+[2025-12-10 01:18:13] [/workspaces/In-Class-Exericse-3] grep -i "warning" logfile.txt 
+[2025-12-10 01:23:24] [/workspaces/In-Class-Exericse-3] grep -v "INFO" logfile.txt 
+[2025-12-10 01:23:39] [/workspaces/In-Class-Exericse-3] grep -w "ERROR" logfile.txt 
